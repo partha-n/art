@@ -1898,6 +1898,9 @@ left: 0;
   margin: 5px auto;
   padding: 5px 5px;
 }
+.paintingsList .cardCon{
+  margin-top: 0;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
@@ -2052,6 +2055,15 @@ left: 0;
   color: #fff;
 }
 @media (max-width: 768px) {
+  #header{
+    padding: 0px 10px;
+  }
+  #header .logo{
+    font-size: 20px;
+  }
+  .section-title p{
+    
+  }
 .border-left{
   border-top: 1px solid #404040;
   border-left: 0;
